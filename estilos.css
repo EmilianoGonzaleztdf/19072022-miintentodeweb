@@ -1,0 +1,22 @@
+body {
+  background-color: #f9f2ed;
+  background-size: contain;
+  font-family: sans-serif;
+}
+h1 {
+  font: "impact";
+  font-size: 50px;
+  text-align: center;
+  color: black;
+}
+p {
+  font: "impact";
+  font-size: 12px;
+  text-align: center;
+  color: black;
+}
+img {
+  align-items: center;
+  width: 300px;
+  height: 300px;
+}
